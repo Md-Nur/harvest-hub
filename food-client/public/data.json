@@ -1,0 +1,12 @@
+[
+  {
+    "food_image": "https://www.thespruceeats.com/thmb/1Q6Q6Q1",
+    "food_name": "Burger",
+    "donator_name": "John Doe",
+    "donator_image": "https://www.thespruceeats.com/thmb/1Q6Q6Q1",
+    "food_quantity": "2",
+    "pickup_location": "Kathmandu",
+    "expire_date": "2021-09-30",
+    "additional_notes": "This is a burger. It is very tasty. Please come and take it."
+  }
+]
